@@ -72,7 +72,7 @@ SET logs the information regarding the Google credentials:
 
 SET logs the information in the XML file under `/root/.set` directory:  
 ## OUTPUT:  
-![Uploading image.png…]()
+<img width="746" height="478" alt="image" src="https://github.com/user-attachments/assets/73835511-3ac9-4785-abfb-bdf2e2456354" />
 
 
 ## RESULT:
